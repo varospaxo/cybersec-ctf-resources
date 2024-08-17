@@ -163,7 +163,7 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Tools Watch](https://www.toolswatch.org/)
 
 ### Additional Tools and Repositories
-- [CTF-Cheatsheet](https://github.com/Rajchowdhury420/CTF-CheatSheet))
+- [CTF-Cheatsheet](https://github.com/Rajchowdhury420/CTF-CheatSheet)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Conclusion

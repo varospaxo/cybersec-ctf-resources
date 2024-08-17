@@ -33,8 +33,17 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [TheGaryTube YouTube - IT / Networking Tutorials](https://www.youtube.com/@TheGaryTube)
 - [David Bombal YouTube - Cisco Networking / CCNA / Cybersecurity](https://www.youtube.com/@DavidBombal)
 
+### Popular Certifications
+- [OffSec Certified Professional (OSCP)](www.offsec.com/)
+- [Certified Ethical Hacker (C|EH)](https://www.eccouncil.org)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc))
+- [Web application Penetration Tester eXtreme](https://security.ine.com/certifications/ewptx-certification/)
+- [Cisco Certified Network Associate (CCNA)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+
 ### Cheatsheets
 - [Cybersec Cheatsheets](https://drive.google.com/drive/folders/1Lfc0YrVIkLX-ImvrvQYVOMW1YzNNEqba)
+- [Guifre](https://guif.re)
 
 ### Additional Resources
 - [Link Lock - Secure Links](https://jstrieb.github.io/link-lock/create/)
@@ -62,7 +71,9 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Joomla Mass Exploiter](https://github.com/anarcoder/JoomlaMassExploiter)
 - [3klCon - Web Recon Tool](https://github.com/eslam3kl/3klCon)
 - [EchoPwn - Bug Bounty Automation](https://github.com/hackerspider1/EchoPwn)
-- [Burpsuite - Web Pentest Toolkit](https://portswigger.net/burp)
+- [BurpSuite - Web Pentest Toolkit](https://portswigger.net/burp)
+- [DNS Analyzer - BurpSuite Extension](https://github.com/The-Login/DNS-Analyzer)
+- [Vajra - Azure Cloud Pentester](https://github.com/TROUBLE-1/Vajra)
 
 ### Mobile Pentest
 - [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
@@ -117,6 +128,7 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [GHunt - Google Account OSINT](https://github.com/mxrch/GHunt)
 - [Trape - User Tracking](https://github.com/jofpin/trape)
 - [Profil3r - OSINT](https://github.com/Rog3rSm1th/Profil3r)
+- [Evilginx2 - Session Cookie and Credential Phishing](https://github.com/kgretzky/evilginx2)
 
 ### DoS
 - [Saphyra](https://github.com/laorynas/Saphyra)
@@ -132,11 +144,18 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Try Hack Me](https://tryhackme.com)
 
 ### Beginner CTF
-- [Kioptrix Level 1 Installation](https://www.geeksforgeeks.org/how-to-install-kioptrix-level-1-vm-on-virtual-box/)
-- [247CTF](https://247ctf.com)
-- [picoCTF](https://picoctf.org)
+- [Kioptrix Level 1 Installation](https://www.geeksforgeeks.org/how-to-install-kioptrix-level-1-on-virtualbox/)
+- [Kioptrix Level 1](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
+- [Kioptrix Level 1.2](https://www.vulnhub.com/entry/kioptrix-level-12-3,24/)
+- [Kioptrix Solution](https://youtu.be/PYw1kovAt8A?si=CkVZ6F6USFhAUCI_)
+  - [Video 1](https://youtu.be/FNF-dk05Nh8?si=-kl7bSmQiivfclad)
+  - [Video 2](https://youtu.be/vWQWikIR4Xw?si=d-eJdwkeQBJFuk2J)
+  - [Video 3](https://youtu.be/otuOog7o7NE?si=md1Ge-DDgjgiHMt2)
+  - [Writeup](https://github.com/pentest-diaries/Vulnhub-In-Hindi-Writeup/blob/main/KIOPTRIX_LEVEL%201.2_Vulnhub.docx)
 
 ### Useful Websites for CTF Challenges
+- [247CTF](https://247ctf.com)
+- [picoCTF](https://picoctf.org)
 - [GTFObins](https://gtfobins.github.io/)
 - [Exploit DB](https://www.exploit-db.com/)
 - [PacketStorm](https://packetstormsecurity.com/)

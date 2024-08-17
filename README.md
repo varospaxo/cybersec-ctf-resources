@@ -11,7 +11,6 @@ This repository is a comprehensive collection of resources tailored for both cyb
 ### Communities / Blogs / Youtubers
 - [Hackers Arise](https://www.hackers-arise.com/)
 - [RTL-SDR Blog](https://www.rtl-sdr.com/)
-- [TryHackMe](https://tryhackme.com/)
 - [DEFCON](https://defcon.org/)
 - [Nullcon](https://nullcon.net/)
 - [SecurityFWD YouTube](https://www.youtube.com/@SecurityFWD)
@@ -164,7 +163,7 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Tools Watch](https://www.toolswatch.org/)
 
 ### Additional Tools and Repositories
-- [CTF-Cheatsheet by S4vitaar](https://github.com/S4vitaar/CTF-Cheatsheet)
+- [CTF-Cheatsheet](https://github.com/Rajchowdhury420/CTF-CheatSheet))
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Conclusion

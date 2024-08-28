@@ -62,7 +62,6 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Sn1per - Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
 - [CMSMap - CMS Scanner](https://github.com/Dionach/CMSmap)
 - [Sublist3r - Subdomain Scanner](https://github.com/aboul3la/Sublist3r)
-- [D-TECT - Web Pentesting](https://github.com/shawarkhanethicalhacker/D-TECT-1)
 - [JSQL Injection](https://github.com/ron190/jsql-injection)
 - [WAFNinja - WAF Bypassing](https://github.com/khalilbijjou/WAFNinja)
 - [Google Explorer](https://github.com/anarcoder/google_explorer)

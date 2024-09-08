@@ -36,7 +36,7 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [OffSec Certified Professional (OSCP)](www.offsec.com/)
 - [Certified Ethical Hacker (C|EH)](https://www.eccouncil.org)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
-- [CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc))
+- [CC – Certified in Cybersecurity](https://www.isc2.org/certifications/cc)
 - [Web application Penetration Tester eXtreme](https://security.ine.com/certifications/ewptx-certification/)
 - [Cisco Certified Network Associate (CCNA)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
 

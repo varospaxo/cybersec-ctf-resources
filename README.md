@@ -57,21 +57,39 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [CTF-Tools](https://github.com/MrMugiwara/CTF-Tools)
 
 ### Web Pentesting
-- [Dirsearch - Web Path Scanner](https://github.com/maurosoria/dirsearch)
-- [xsscrapy - XSS Vulnerability Scanner](https://github.com/DanMcInerney/xsscrapy)
-- [Sn1per - Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
+- [Wappalyzer (For tech stack identification)](https://www.wappalyzer.com)
 - [CMSMap - CMS Scanner](https://github.com/Dionach/CMSmap)
-- [Sublist3r - Subdomain Scanner](https://github.com/aboul3la/Sublist3r)
+- [Dirsearch - Web Path Scanner](https://github.com/maurosoria/dirsearch)
+- [Subfinder (subdomain finder)](https://github.com/projectdiscovery/subfinder)
+- [Sublist3r (subdomain finder)](https://github.com/aboul3la/Sublist3r)
+- [Declutter URLs - uro](https://github.com/s0md3v/uro)
+- [HttpX (HTTP probe)](https://github.com/projectdiscovery/httpx)
+- [paramspider (parameter discovery)](https://github.com/devanshbatham/ParamSpider)
+- [Arjun (parameter discovery)](https://github.com/s0md3v/Arjun)
+- [XSS Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [xsscrapy - XSS Vulnerability Scanner](https://github.com/DanMcInerney/xsscrapy)
+- [XSStrike (XSS scanner)](https://github.com/s0md3v/XSStrike)
+- [XSS Payloads](https://xss.report/)
+- [SQLMap (SQLi automation)](https://github.com/sqlmapproject/sqlmap)
 - [JSQL Injection](https://github.com/ron190/jsql-injection)
-- [WAFNinja - WAF Bypassing](https://github.com/khalilbijjou/WAFNinja)
-- [Google Explorer](https://github.com/anarcoder/google_explorer)
-- [WordPress Mass Exploiter](https://github.com/anarcoder/WordPressMassExploiter)
-- [Joomla Mass Exploiter](https://github.com/anarcoder/JoomlaMassExploiter)
 - [3klCon - Web Recon Tool](https://github.com/eslam3kl/3klCon)
-- [EchoPwn - Bug Bounty Automation](https://github.com/hackerspider1/EchoPwn)
+- [SpyHunt (recon tool)](https://github.com/gotr00t0day/spyhunt)
+- [Amass (resource recon)](https://github.com/owasp-amass/amass)
+- [Sn1per - Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
+- [3klCon - Web Recon Tool](https://github.com/eslam3kl/3klCon)
+- [Sn1per - Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
+- [nuclei (vulnerability scanner)](https://github.com/projectdiscovery/nuclei)
+- [WAFNinja - WAF Bypassing](https://github.com/khalilbijjou/WAFNinja)
+- [Joomla Mass Exploiter](https://github.com/anarcoder/JoomlaMassExploiter)
+- [Wpscan (WordPress vulnerability scanner)](https://github.com/wpscanteam/wpscan)
+- [WordPress Mass Exploiter](https://github.com/anarcoder/WordPressMassExploiter)
+
+### Audit Tools
 - [BurpSuite - Web Pentest Toolkit](https://portswigger.net/burp)
+- [Caido - Security Auditing Tool](https://caido.io)
+- [FoxyProxy - Web Proxy](https://getfoxyproxy.org/downloads/)
+- [Postman - API Audit](https://www.postman.com)
 - [DNS Analyzer - BurpSuite Extension](https://github.com/The-Login/DNS-Analyzer)
-- [Vajra - Azure Cloud Pentester](https://github.com/TROUBLE-1/Vajra)
 
 ### Mobile Pentest
 - [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
@@ -118,8 +136,10 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [TCPDump - Packet Capture](https://www.tcpdump.org)
 - [IP Scanner](https://angryip.org)
 - [Nmap - Network Scan Tool](https://nmap.org)
+- [Smap (Nmap alternative)](https://github.com/s0md3v/Smap)
 
 ### OSINT / Social Engineering
+- [Photon - OSINT Crawler](https://github.com/s0md3v/Photon)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
 - [CamPhish](https://github.com/techchipnet/CamPhish)
 - [TBomb - SMS/Call Bomber](https://github.com/TheSpeedX/TBomb)
@@ -127,6 +147,8 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Trape - User Tracking](https://github.com/jofpin/trape)
 - [Profil3r - OSINT](https://github.com/Rog3rSm1th/Profil3r)
 - [Evilginx2 - Session Cookie and Credential Phishing](https://github.com/kgretzky/evilginx2)
+- [Dorks - Bug Bounty Search Engine](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/)
+- [Google Explorer](https://github.com/anarcoder/google_explorer)
 
 ### DoS
 - [Saphyra](https://github.com/laorynas/Saphyra)
@@ -164,6 +186,59 @@ This repository is a comprehensive collection of resources tailored for both cyb
 ### Additional Tools and Repositories
 - [CTF-Cheatsheet](https://github.com/Rajchowdhury420/CTF-CheatSheet)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+## Bug Bounty Resources
+
+### Bug Bounty Platforms
+- [Bug Crowd](https://www.bugcrowd.com/bug-bounty-list/)
+- [HackerOne](https://hackerone.com/bug-bounty-programs)
+- [YesWeHack](https://yeswehack.com/programs)
+- [Microsoft](https://www.microsoft.com/en-us/msrc/bounty)
+
+### Bug Bounty Tools
+
+#### Enumeration / Recon
+- [Wappalyzer (For tech stack identification)](https://www.wappalyzer.com)
+- [3klCon - Web Recon Tool](https://github.com/eslam3kl/3klCon)
+- [CMSMap - CMS Scanner](https://github.com/Dionach/CMSmap)
+- [Dirsearch - Web Path Scanner](https://github.com/maurosoria/dirsearch)
+- [SpyHunt (recon tool)](https://github.com/gotr00t0day/spyhunt)
+- [Amass (resource recon)](https://github.com/owasp-amass/amass)
+- [Subfinder (subdomain finder)](https://github.com/projectdiscovery/subfinder)
+- [Sublist3r (subdomain finder)](https://github.com/aboul3la/Sublist3r)
+- [Declutter URLs - uro](https://github.com/s0md3v/uro)
+- [paramspider (parameter discovery)](https://github.com/devanshbatham/ParamSpider)
+- [Arjun (parameter discovery)](https://github.com/s0md3v/Arjun)
+- [HttpX (HTTP probe)](https://github.com/projectdiscovery/httpx)
+- [XSStrike (XSS scanner)](https://github.com/s0md3v/XSStrike)
+- [xsscrapy - XSS Vulnerability Scanner](https://github.com/DanMcInerney/xsscrapy)
+- [Smap (Nmap alternative)](https://github.com/s0md3v/Smap)
+
+#### Automation
+- [EchoPwn - Bug Bounty Automation](https://github.com/hackerspider1/EchoPwn)
+- [Sn1per - Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
+- [SQLMap (SQLi automation)](https://github.com/sqlmapproject/sqlmap)
+- [Wpscan (WordPress vulnerability scanner)](https://github.com/wpscanteam/wpscan)
+- [nuclei (vulnerability scanner)](https://github.com/projectdiscovery/nuclei)
+- [JSQL Injection](https://github.com/ron190/jsql-injection)
+
+#### Exploits
+- [WAFNinja - WAF Bypassing](https://github.com/khalilbijjou/WAFNinja)
+- [WordPress Mass Exploiter](https://github.com/anarcoder/WordPressMassExploiter)
+- [Joomla Mass Exploiter](https://github.com/anarcoder/JoomlaMassExploiter)
+- [Vajra - Azure Cloud Pentester](https://github.com/TROUBLE-1/Vajra)
+
+#### Auditing Tools
+- [BurpSuite - Web Pentest Toolkit](https://portswigger.net/burp)
+- [Caido - Security Auditing Tool](https://caido.io)
+- [FoxyProxy - Web Proxy](https://getfoxyproxy.org/downloads/)
+- [Postman - API Audit](https://www.postman.com)
+- [DNS Analyzer - BurpSuite Extension](https://github.com/The-Login/DNS-Analyzer)
+
+### Bug Bounty Cheatsheets
+- [MRecon - Notion Page](https://sordid-carpenter-8bf.notion.site/MRecon-f52be5fd0ae24ba49fb3906b56263f9b)
+- [XSS Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [XSS Payloads](https://xss.report/)
 
 ## Conclusion
 This repository offers a curated list of essential resources for anyone interested in cybersecurity and CTF challenges. From roadmaps and community links to specialized tools and cheat sheets, this guide is designed to support your journey through the complex world of cybersecurity.

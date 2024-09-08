@@ -56,7 +56,7 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [CTF Tools by Greg Alletti](https://github.com/gregalletti/CTF_tools)
 - [CTF-Tools](https://github.com/MrMugiwara/CTF-Tools)
 
-### Web Pentesting
+#### Web Pentesting
 - [Wappalyzer (For tech stack identification)](https://www.wappalyzer.com)
 - [CMSMap - CMS Scanner](https://github.com/Dionach/CMSmap)
 - [Dirsearch - Web Path Scanner](https://github.com/maurosoria/dirsearch)
@@ -84,21 +84,21 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Wpscan (WordPress vulnerability scanner)](https://github.com/wpscanteam/wpscan)
 - [WordPress Mass Exploiter](https://github.com/anarcoder/WordPressMassExploiter)
 
-### Audit Tools
+#### Audit Tools
 - [BurpSuite - Web Pentest Toolkit](https://portswigger.net/burp)
 - [Caido - Security Auditing Tool](https://caido.io)
 - [FoxyProxy - Web Proxy](https://getfoxyproxy.org/downloads/)
 - [Postman - API Audit](https://www.postman.com)
 - [DNS Analyzer - BurpSuite Extension](https://github.com/The-Login/DNS-Analyzer)
 
-### Mobile Pentest
+#### Mobile Pentest
 - [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 - [APKLeaks - Extract APK Secrets](https://github.com/dwisiswant0/apkleaks)
 - [WhatsApp Viewer](https://github.com/andreas-mausch/whatsapp-viewer)
 - [WhatsApp Key DB Extractor](https://github.com/EliteAndroidApps/WhatsApp-Key-DB-Extractor)
 - [IMSI Catcher Stingray Guide](https://www.hackers-arise.com/post/software-defined-radio-part-6-building-a-imsi-catcher-stingray)
 
-### Image Steganography
+#### Image Steganography
 - [StegOnline Checklist](https://stegonline.georgeom.net/checklist)
 - [0xffd700 Steganography](http://0xffd700.com/steganography)
 - [StyleSuxx Steganography](https://stylesuxx.github.io/steganography/)
@@ -109,21 +109,21 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Photo Forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
 - [Jimpl - Image Analysis](https://jimpl.com)
 
-### Password Hash Crack
+#### Password Hash Crack
 - [Hashcat - Password Cracking](https://github.com/hashcat/hashcat)
 - [CrackStation](https://crackstation.net/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 
-### Morse Code / Audio Steganography Decoder
+#### Morse Code / Audio Steganography Decoder
 - [Audacity](https://www.audacityteam.org/)
 - [Lexilogos Morse Code Translator](https://www.lexilogos.com/keyboard/morse.htm)
 
-### Cryptography
+#### Cryptography
 - [dCode](https://www.dcode.fr/)
 - [Guballa Substitution Solver](https://www.guballa.de/substitution-solver)
 - [RSA Factor DB](http://factordb.com/)
 
-### Reverse Engineering
+#### Reverse Engineering
 - [IDA](https://hex-rays.com/ida-pro/)
 - [Ghidra](https://ghidra-sre.org/)
 - [x64DBG](https://x64dbg.com/)
@@ -131,14 +131,14 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Compiler Explorer](https://godbolt.org/)
 - [Cheat Engine](https://cheatengine.org/)
 
-### Network Analysis
+#### Network Analysis
 - [Wireshark - Packet Capture](https://www.wireshark.org/)
 - [TCPDump - Packet Capture](https://www.tcpdump.org)
 - [IP Scanner](https://angryip.org)
 - [Nmap - Network Scan Tool](https://nmap.org)
 - [Smap (Nmap alternative)](https://github.com/s0md3v/Smap)
 
-### OSINT / Social Engineering
+#### OSINT / Social Engineering
 - [Photon - OSINT Crawler](https://github.com/s0md3v/Photon)
 - [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
 - [CamPhish](https://github.com/techchipnet/CamPhish)
@@ -150,11 +150,11 @@ This repository is a comprehensive collection of resources tailored for both cyb
 - [Dorks - Bug Bounty Search Engine](https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/)
 - [Google Explorer](https://github.com/anarcoder/google_explorer)
 
-### DoS
+#### DoS
 - [Saphyra](https://github.com/laorynas/Saphyra)
 - [hping3](https://www.kali.org/tools/hping3/)
 
-### RATs
+#### RATs
 - [NjRAT Modded Source Code](https://github.com/AliBawazeEer/RAT-NjRat-0.7d-modded-source-code)
 - [Lime-RAT](https://github.com/NYAN-x-CAT/Lime-RAT)
 - [AhMyth - Android RAT](https://github.com/AhMyth/AhMyth-Android-RAT)
